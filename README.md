@@ -1,0 +1,2 @@
+# djangochannels
+Django chat application
